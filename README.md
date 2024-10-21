@@ -33,7 +33,6 @@ Embark with me on the journey of crafting iOS applications with Swift and SwiftU
 - RXSwift
 - Combine
 
-<br\>
 
 ## App Overview
 
