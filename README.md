@@ -38,7 +38,7 @@ Embark with me on the journey of crafting iOS applications with Swift and SwiftU
 
 ### Rick and Morty App
 
-  [Rick and Morty App](https://github.com/dmansour2000/RickAndMortyAPIUIKitWithSwiftUI) is built with SwiftUI and UIKit and leverages the Rick and Morty API to fetch and display information about characters, locations, and episodes from the beloved animated series.
+  [Rick and Morty App](https://github.com/dmansour2000/RickAndMortyAPIUIKitWithSwiftUI) is built with SwiftUI and UIKit and leverages the Rick and Morty API using Combine to fetch and display information about characters, locations, and episodes from the beloved animated series.
 
   <p>
    <img src="https://github.com/dmansour2000/RickAndMortyAPIUIKitWithSwiftUI/blob/main/screenshots/Simulator%20Screenshot%20-%20iPhone%20SE%20(3rd%20generation)%20-%202024-10-17%20at%2021.08.06.png", width="150" hspace="4"/>
