@@ -79,3 +79,10 @@ Embark with me on the journey of crafting iOS applications with Swift and SwiftU
    <img src="https://github.com/dmansour2000/android-kotlin-cleanarchitecture/blob/master/screenshots/Screenshot_20241023_101415.png", width="150" hspace="4"/>
 
 </p>
+
+### TVSeries App
+
+#### Github Pages Link 
+[https://dmansour2000.github.io/TVSeries](https://dmansour2000.github.io/TVSeries)
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
