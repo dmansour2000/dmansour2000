@@ -21,6 +21,11 @@ Embark with me on the journey of crafting iOS applications with Swift and SwiftU
 
 - React.JS
 - Android
+- Kotlin
+- Java
+- RXJava
+- RetroFit
+- SQLLite
 - Objective-C
 - Swift
 - SwiftUI
