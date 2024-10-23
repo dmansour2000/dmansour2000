@@ -19,6 +19,7 @@ Embark with me on the journey of crafting iOS applications with Swift and SwiftU
 
 ### Skills
 
+- Android
 - Objective-C
 - Swift
 - SwiftUI
@@ -68,3 +69,13 @@ Embark with me on the journey of crafting iOS applications with Swift and SwiftU
   <img src="https://github.com/dmansour2000/FrontendChallenge/blob/master/screenshots/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202024-10-21%20at%2012.54.56.png", width="150" hspace="4"/>
      </p>
 
+### Github Repos App
+
+ [Github Repos App](https://github.com/dmansour2000/android-kotlin-cleanarchitecture) is a native Android mobile app, built Using Kotlin, Dependency Injection, Dagger and RetroFit rettrieves the users' GitHub Repos list and navigates to them in a web view.
+
+ <p>
+   <img src="https://github.com/dmansour2000/android-kotlin-cleanarchitecture/blob/master/screenshots/Screenshot_20241023_101447.png", width="150" hspace="4"/>
+   <img src="https://github.com/dmansour2000/android-kotlin-cleanarchitecture/blob/master/screenshots/Screenshot_20241023_101303.png", width="150" hspace="4"/>
+   <img src="https://github.com/dmansour2000/android-kotlin-cleanarchitecture/blob/master/screenshots/Screenshot_20241023_101415.png", width="150" hspace="4"/>
+
+</p>
