@@ -20,6 +20,7 @@ Embark with me on the journey of crafting iOS applications with Swift and SwiftU
 ### Skills
 
 - React.JS
+- Javascript
 - Android
 - Kotlin
 - Java
