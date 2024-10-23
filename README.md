@@ -82,9 +82,9 @@ Embark with me on the journey of crafting iOS applications with Swift and SwiftU
 
 ### TVSeries React.JS App
 
-[Github Repos App](https://github.com/dmansour2000/TVSeries)
+[TVSeries React.JS App](https://github.com/dmansour2000/TVSeries) project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 #### Github Pages Link 
 [https://dmansour2000.github.io/TVSeries](https://dmansour2000.github.io/TVSeries)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
