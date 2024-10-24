@@ -95,9 +95,9 @@ Embark with me on the journey of crafting iOS applications with Swift and SwiftU
 #### Github Pages Link 
 [https://dmansour2000.github.io/TVSeries](https://dmansour2000.github.io/TVSeries)
 
-### Blog Site App
+### Blog Site Node.JS App
 
-[Blog Site App](https://github.com/dmansour2000/nodejs_sample_site) project is a Node.JS web app is built using Node.JS and MongoDB.
+[Blog Site Node.JS App](https://github.com/dmansour2000/nodejs_sample_site) project is a Node.JS web app is built using Node.JS and mongoDB.
 
 <p>
    <img src="https://github.com/dmansour2000/nodejs_sample_site/blob/master/screenshots/Screenshot%202024-10-23%20at%2011.17.26%E2%80%AFPM.png", width="500" hspace="4"/>
