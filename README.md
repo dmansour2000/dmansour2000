@@ -102,7 +102,7 @@ Embark with me on the journey of crafting iOS applications with Swift and SwiftU
 </p>
 
 #### Heroku Babysitter Booking Platform WebApp Link 
-[[https://babysitter-booking-af7cbf57133b.herokuapp.com](https://babysitter-booking-af7cbf57133b.herokuapp.com)]
+[https://babysitter-booking-af7cbf57133b.herokuapp.com](https://babysitter-booking-af7cbf57133b.herokuapp.com)
 
 ### TVSeries React.JS App
 
