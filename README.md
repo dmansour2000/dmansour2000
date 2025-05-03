@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Embark with me on the journey of crafting iOS applications with Swift and SwiftUI.
+Embark with me on the journey of crafting mobile apps with Swift, SwiftUI, Android, Flutter and building the backend using Node.js.
 
 ### Skills
 
