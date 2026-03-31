@@ -92,7 +92,7 @@ Embark with me on the journey of crafting mobile apps with Swift, SwiftUI, Andro
 
 ### Babysitter Booking Platform Web App
 
-[Babysitter Booking Platform Web App](https://github.com/dmansour2000/nodejsbabysitterbookingplatform) is a webapp built with React.js and Node.js. The Frontend is built using React.js and the backend is built using Node.js and MongoDB database. 
+[Babysitter Booking Platform Web App](https://github.com/dmansour2000/dmansour2000-nodejsbabysitterbookingplatformbackend) is a webapp built with React.js and Node.js. The Frontend is built using React.js and the backend is built using Node.js and MongoDB database. 
 • It is a work in progress though as I will later on add ratings and reviews to babysitters by users on the app. 
 • Also the ability for babysitters to upload thier personal photos on thier currently existing edit profile. 
 • I will later on connect the web APIs on this web app to a new mobile app (Android and iOS)
@@ -101,7 +101,7 @@ Embark with me on the journey of crafting mobile apps with Swift, SwiftUI, Andro
    <img src="https://github.com/dmansour2000/nodejsbabysitterbookingplatform/blob/master/Screenshot%202025-01-15%20at%204.53.39%E2%80%AFAM.png", width="500" hspace="4"/>
 </p>
 
-#### Heroku Babysitter Booking Platform WebApp Link 
+#### Github Pages Babysitter Booking Platform App Link 
 [https://babysitter-booking-af7cbf57133b.herokuapp.com](https://babysitter-booking-af7cbf57133b.herokuapp.com)
 
 ### TVSeries React.JS App
