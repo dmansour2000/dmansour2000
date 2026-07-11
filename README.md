@@ -46,6 +46,19 @@ Embark with me on the journey of crafting mobile apps with Swift, SwiftUI, Andro
 
 ## App Overview
 
+### Around Egypt App 
+
+  [Around Egypt App](https://github.com/dmansour2000/aroundEgyptSwiftUI) is built with SwiftUI and leverages the aroundEgypt API using Combine to fetch and display information about historical locations all over Egypt.
+
+  <p>
+   <img src="https://github.com/dmansour2000/aroundEgyptSwiftUI/blob/main/Simulator%20Screenshot%20-%20iPhone%2016e%20-%202026-07-12%20at%2000.56.51.png", width="150" hspace="4"/>
+   <img src="https://github.com/dmansour2000/aroundEgyptSwiftUI/blob/main/Simulator%20Screenshot%20-%20iPhone%2016e%20-%202026-07-12%20at%2000.57.29.png", width="150" hspace="4"/>
+   <img src="https://github.com/dmansour2000/aroundEgyptSwiftUI/blob/main/Simulator%20Screenshot%20-%20iPhone%2016e%20-%202026-07-12%20at%2000.57.42.png", width="150" hspace="4"/>
+  <img src="https://github.com/dmansour2000/aroundEgyptSwiftUI/blob/main/Simulator%20Screenshot%20-%20iPhone%2016e%20-%202026-07-12%20at%2000.57.48.png", width="150" hspace="4"/>
+</p>
+  <img src="https://github.com/dmansour2000/aroundEgyptSwiftUI/blob/main/Simulator%20Screenshot%20-%20iPhone%2016e%20-%202026-07-12%20at%2000.58.17.png", width="150" hspace="4"/>
+</p>
+
 ### Rick and Morty App (in a a whole new shape!!!)
 
   [Rick and Morty App](https://github.com/dmansour2000/RickAndMortyAPIUIKitWithSwiftUI) is built with SwiftUI and UIKit and leverages the Rick and Morty API using Combine to fetch and display information about characters, locations, and episodes from the beloved animated series.
