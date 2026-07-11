@@ -38,7 +38,6 @@ Embark with me on the journey of crafting mobile apps with Swift, SwiftUI, Andro
 - RXJava
 - RetroFit
 - SQLLite
-- Flutter
 - React.JS
 - Node.JS
 - Javascript
@@ -47,7 +46,7 @@ Embark with me on the journey of crafting mobile apps with Swift, SwiftUI, Andro
 
 ## App Overview
 
-### Rick and Morty App
+### Rick and Morty App (in a a whole new shape!!!)
 
   [Rick and Morty App](https://github.com/dmansour2000/RickAndMortyAPIUIKitWithSwiftUI) is built with SwiftUI and UIKit and leverages the Rick and Morty API using Combine to fetch and display information about characters, locations, and episodes from the beloved animated series.
 
@@ -123,15 +122,6 @@ Embark with me on the journey of crafting mobile apps with Swift, SwiftUI, Andro
    <img src="https://github.com/dmansour2000/nodejs_sample_site/blob/master/screenshots/Screenshot%202024-10-23%20at%2011.18.29%E2%80%AFPM.png", width="500" hspace="4"/>
 </p>
 
-### Flutter Coffee Card App
- 
-[Flutter Coffee Card App](https://github.com/dmansour2000/flutter_coffee_card) is a simple flutter app.
 
-<p>
-   <img src="https://github.com/dmansour2000/flutter_coffee_card/blob/main/screenshots/Simulator%20Screenshot%20-%20iPhone%20SE%20(3rd%20generation)%20-%202024-10-25%20at%2013.26.52.png", width="150" hspace="4"/>
-   <img src="https://github.com/dmansour2000/flutter_coffee_card/blob/main/screenshots/Simulator%20Screenshot%20-%20iPhone%20SE%20(3rd%20generation)%20-%202024-10-25%20at%2013.27.00.png", width="150" hspace="4"/>
-   <img src="https://github.com/dmansour2000/flutter_coffee_card/blob/main/screenshots/Simulator%20Screenshot%20-%20iPhone%20SE%20(3rd%20generation)%20-%202024-10-25%20at%2013.27.14.png", width="150" hspace="4"/>
-
-</p>
 
 
