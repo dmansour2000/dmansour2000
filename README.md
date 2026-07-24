@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Embark with me on the journey of crafting mobile apps with Swift, SwiftUI, Android, Flutter and building the backend using Node.js.
+Embark with me on the journey of crafting mobile apps with Swift, SwiftUI, Android and building the backend using Node.js.
 
 ### Skills
 
@@ -59,7 +59,7 @@ Embark with me on the journey of crafting mobile apps with Swift, SwiftUI, Andro
   <img src="https://github.com/dmansour2000/aroundEgyptSwiftUI/blob/main/Simulator%20Screenshot%20-%20iPhone%2016e%20-%202026-07-12%20at%2000.58.17.png", width="150" hspace="4"/>
 </p>
 
-### Rick and Morty App (in a a whole new shape!!!)
+### Rick and Morty App (in a whole new shape!!!)
 
   [Rick and Morty App](https://github.com/dmansour2000/RickAndMortyAPIUIKitWithSwiftUI) is built with SwiftUI and UIKit and leverages the Rick and Morty API using Combine to fetch and display information about characters, locations, and episodes from the beloved animated series.
 
