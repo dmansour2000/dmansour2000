@@ -107,10 +107,6 @@ Embark with me on the journey of crafting mobile apps with Swift, SwiftUI, Andro
 CareNest is a React application built with Vite. The frontend and backend are maintained and deployed from **separate Git repositories.
  The backend is built using Express and MongoDB API for CareNest.
  
- <p>
-   <img src="https://github.com/dmansour2000/reactjsbabysitterbookingplatformfrontend/blob/main/Screenshot%202026-10-21%20at%207.51.27%E2%80%AFAM.png", width="500" hspace="4"/>
-</p>
-
 #### Live website and API
 
 - Frontend (GitHub Pages): [dmansour2000.github.io/reactjsbabysitterbookingplatformfrontend](https://dmansour2000.github.io/reactjsbabysitterbookingplatformfrontend)
