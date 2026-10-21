@@ -102,18 +102,23 @@ Embark with me on the journey of crafting mobile apps with Swift, SwiftUI, Andro
 
 </p>
 
-### Babysitter Booking Platform Web App
+###  CareNest Babysitter Booking Platform
 
-[Babysitter Booking Platform Web App](https://github.com/dmansour2000/dmansour2000-nodejsbabysitterbookingplatformbackend) is a webapp built with React.js and Node.js. The Frontend is built using React.js and VITE and the backend is built using Express.js and MongoDB.
-• The ability for babysitters to upload thier personal photos on thier currently existing edit profile. 
-• I will later on connect the web APIs on this web app to a new mobile app 
+CareNest is a React application built with Vite. The frontend and backend are maintained and deployed from **separate Git repositories.
+ The backend is built using Express and MongoDB API for CareNest.
+ 
+ <p>
+   <img src="https://github.com/dmansour2000/reactjsbabysitterbookingplatformfrontend/blob/main/Screenshot%202026-10-21%20at%207.51.27%E2%80%AFAM.png", width="500" hspace="4"/>
+</p>
+
+#### Live website and API
+
+- Frontend (GitHub Pages): [dmansour2000.github.io/reactjsbabysitterbookingplatformfrontend](https://dmansour2000.github.io/reactjsbabysitterbookingplatformfrontend)
+- Backend API (Render): [nodejsbabysitterbookingplatformbackend.onrender.com](https://nodejsbabysitterbookingplatformbackend.onrender.com)
 
 <p>
    <img src="https://github.com/dmansour2000/reactjsbabysitterbookingplatformfrontend/blob/main/Screenshot%202026-10-21%20at%207.51.27%E2%80%AFAM.png", width="500" hspace="4"/>
 </p>
-
-#### Github Pages Babysitter Booking Platform App Link 
-[https://dmansour2000.github.io/reactjsbabysitterbookingplatformfrontend](https://dmansour2000.github.io/reactjsbabysitterbookingplatformfrontend)
 
 ### TVSeries React.JS App
 
