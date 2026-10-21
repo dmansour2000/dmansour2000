@@ -109,7 +109,7 @@ Embark with me on the journey of crafting mobile apps with Swift, SwiftUI, Andro
 • I will later on connect the web APIs on this web app to a new mobile app 
 
 <p>
-   <img src="https://github.com/dmansour2000/nodejsbabysitterbookingplatformfrontend/blob/main/Screenshot%202025-01-15%20at%204.53.39%E2%80%AFAM.png", width="500" hspace="4"/>
+   <img src="https://github.com/dmansour2000/reactjsbabysitterbookingplatformfrontend/blob/main/Screenshot%202026-10-21%20at%207.51.27%E2%80%AFAM.png", width="500" hspace="4"/>
 </p>
 
 #### Github Pages Babysitter Booking Platform App Link 
