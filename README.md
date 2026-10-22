@@ -125,6 +125,10 @@ A cross-platform React Native (Expo) mobile application for **CareNest**, matchi
 
 [CareNest Babysitter Booking React Native Mobile App Repo](https://github.com/dmansour2000/reactnativebabysiterbookingmobileapp)
 
+[![Google Play](https://img.shields.io/badge/Google_Play-CareNest-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.carenestbooking.app)
+
+Official Google Play Store link: **[https://play.google.com/store/apps/details?id=com.carenestbooking.app](https://play.google.com/store/apps/details?id=com.carenestbooking.app)**
+
   <p>
    <img src="https://github.com/dmansour2000/reactnativebabysiterbookingmobileapp/blob/main/store-assets/screenshots/01-home-screen-en.png", width="150" hspace="4"/>
    </p>
