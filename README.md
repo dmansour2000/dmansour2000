@@ -110,12 +110,6 @@ CareNest is a React.js application built with Vite. The frontend and backend are
  [CareNest Babysitter Booking Backend API Repo](https://github.com/dmansour2000/nodejsbabysitterbookingplatformbackend)
  [CareNest Babysitter Booking Frontend App Repo](https://github.com/dmansour2000/reactjsbabysitterbookingplatformfrontend)
 
-### CareNest Mobile App (iOS & Android)
-
-A cross-platform React Native (Expo) mobile application for **CareNest**, matching the design system, colors, and user experience of the CareNest web frontend.
-
-[CareNest Babysitter Booking React Native Mobile App Repo](https://github.com/dmansour2000/reactnativebabysiterbookingmobileapp)
-
 #### Live website and API
 
 - Frontend (GitHub Pages): [dmansour2000.github.io](https://dmansour2000.github.io/)
@@ -124,6 +118,16 @@ A cross-platform React Native (Expo) mobile application for **CareNest**, matchi
 <p>
    <img src="https://github.com/dmansour2000/reactjsbabysitterbookingplatformfrontend/blob/main/Screenshot%202026-10-21%20at%207.51.27%E2%80%AFAM.png", width="500" hspace="4"/>
 </p>
+
+### CareNest Mobile App (iOS & Android)
+
+A cross-platform React Native (Expo) mobile application for **CareNest**, matching the design system, colors, and user experience of the CareNest web frontend.
+
+[CareNest Babysitter Booking React Native Mobile App Repo](https://github.com/dmansour2000/reactnativebabysiterbookingmobileapp)
+
+  <p>
+   <img src="https://github.com/dmansour2000/reactnativebabysiterbookingmobileapp/blob/main/store-assets/screenshots/01-home-screen-en.png", width="150" hspace="4"/>
+   </p>
 
 ### TVSeries React.JS App
 
