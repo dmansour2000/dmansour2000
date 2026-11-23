@@ -15,23 +15,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Embark with me on the journey of crafting mobile apps with Swift, SwiftUI, Android and building the backend using Node.js.
+iOS developer based in Cairo, Egypt. I build native apps in Swift, SwiftUI and UIKit, and I also work with Kotlin, React Native and Node.js.
 
 ### Skills
 
-- Objective-C
 - Swift
 - SwiftUI
+- UIKit
+- Objective-C
+- Combine
+- RXSwift
 - Core Data
 - Swift Data
-- Firebase
 - MapKit
-- AppStorage
 - Core location
 - Core text
 - Core Animation
-- RXSwift
-- Combine
+- Firebase
+- AppStorage
 - Android
 - Kotlin
 - Java
@@ -152,6 +153,4 @@ Official Google Play Store link: **[https://play.google.com/store/apps/details?i
    <img src="https://github.com/dmansour2000/nodejs_sample_site/blob/master/screenshots/Screenshot%202024-10-23%20at%2011.18.29%E2%80%AFPM.png", width="500" hspace="4"/>
 </p>
 
-
-
-
+Contact: LinkedIn https://www.linkedin.com/in/d-mansour2000
