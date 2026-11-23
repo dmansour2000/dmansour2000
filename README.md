@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-iOS developer based in Cairo, Egypt. I build native apps in Swift, SwiftUI and UIKit, and I also work with Kotlin, React Native and Node.js.
+I'm a senior iOS developer based in Cairo, Egypt. I build native apps with Swift, SwiftUI and UIKit, and also work with Kotlin, React Native and Node.js.
+
+Alongside hands-on development, I lead iOS teams and manage software delivery across backend and frontend teams. I'm open to senior iOS development and software project management roles. My personal projects include CareNest, a self-made sample platform for babysitter booking.
 
 ### Skills
 
